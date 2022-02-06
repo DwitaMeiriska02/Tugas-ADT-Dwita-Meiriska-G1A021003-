@@ -12,3 +12,4 @@ Tinggi #merupakan perintah untuk memanggil inputan
 input #merupakan angka yang akan diinput
 print #adalah kode untuk membaca suatu program
 (*) #Merupakan Suatu kode perkalian
+int/ Integer #mengkonversi bilangan bulat
